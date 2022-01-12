@@ -1,2 +1,2 @@
 # preparation01
-This is my first repo
+This repository provides a reflection on Alfie Kohn's article
